@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@page {
+    margin: 130px 45px 60px;
+}
+
+*{
+    font-family: 'Arial', sans-serif;
+    color: #242524;
+    font-weight: 300;
+    line-height: 0.8;
+    padding: 0px;
+}
+
+.upper{
+    text-transform: uppercase;
+}
+
+.underline{
+    text-decoration: underline;
+}
+b{
+    font-weight: bold;
+}
+p{
+    font-size: 14px;
+    line-height:1.2 !important;
+}
+h5{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 11px;
+}
+
+th{
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.periodos td{
+    font-size: 12px;
+    text-align: center;
+    padding:9px;
+}
+
+.periodos td{
+    border-top:1px solid #f2f2f2;
+}
+.naranja{
+    color:orange;
+    font-weight: 700;
+}
+
+
+header { position: fixed; top: -85px; left: 0px; right: 0px; height: 120px; }
+
+#contrato{
+    font-size: 11px !important;
+
+}
+.tbl_contrato{
+    font-size: 11px !important;
+    border-collapse: collapse;
+    line-height:1 !important;
+}
+
+.tbl_contrato td {
+    border-color: #959594;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+}
+
+.center{
+    text-align: center !important;
+}
+
+#contrato h1{
+    font-weight: bold;
+}
+
+#contrato ol{
+    margin-left:40px;
+    line-height:1 !important;
+}
+
+#contrato p{
+    text-align: justify;
+    line-height:1 !important;
+}
+
+u {
+    text-decoration: underline;
+}
+
+
+.duda{
+    background: red;
+    padding:5px;
+}

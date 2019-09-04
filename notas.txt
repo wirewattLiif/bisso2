@@ -1,0 +1,37 @@
+Usuario:          IHG8728CCO 
+Contraseña:    pru3ba00 
+NumeroOtorgante: 0000081008
+
+
+****************************************************************************************
+Puntos pendientes
+- Revisar nuevos documentos que pide Joel y revisar que en word que manda no vengan cambiados del flujo actual
+- Los documentos que existen, al momento de autorizar cotizacion se deben adjuntar a los documentos del cliente
+- Si creas una cotizacion con un integrador que no tiene productos asociados el slide de meses se queda abierto
+
+
+***** JUNTA VIERNES
+
+*FICO y deuda, que solo se vea en la solicitud - admin
+
+
+TERMINADOS
+- nuevos documentos que pidio JOEL (Ejemp: los del ife por ambos lados)
+*Guardar el motivo de porque no se pudo preautorizar cliente (deuda, fico, y mensaje)
+- Poder descargar los archivos que adjuntan en la cotizacion (Si ya adjunto los archivos, que no sean obligatorios en el formulario)
+
+- “Cuéntanos donde vas a instalar el proyecto ” # paso 3 (YA)
+- En listado de solicitudes del admin agregar integrador en dado caso que aplique, las que no poner NA (YA)
+- EN vista del detalle de cotizacion, Anticipo / enganche solo mostrar enganche (YA)
+*- En admin, agregar listado de cotizaciones preautorizadas.   ----> Tambien agrgegar a los integradores (YA)
+*- En admin agregar solicitudes en estatus creada. (actualmente estas las ignoramos) (YA)
+
+***** JUNTA VIERNES
+*Opcion de preautorizar manual (No estaba contemplada esta opción) - Solo debe de estar en el perfil de wirewatt, es una vista estática con solo la opción para preautorizar. (YA)
+* Joel va a mandar lista de personas que necesitan cambiar el correo (prioridad) (YA)
+*Nombre del 3 tab “Sistema solar” -> “Proyecto” (En detalle de la solicitud) (YA)
+Y en ese tab mostrar la table de lo agregado en el paso 8  (YA)
+Descripción de los bienes, para los casos donde no son del flujo del integrador(solicitudes normales) (YA)
+
+
+FICO y deuda en el listado de preautorizadas - admin (YA)

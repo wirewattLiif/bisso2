@@ -1,0 +1,3 @@
+BEGIN;
+INSERT INTO `clientes_tipos` VALUES ('1', 'E1', 'Persona Física y Dueña de Casa con Buen Historial Crediticio', '1', '1', null, '2018-05-29 12:07:42', null), ('2', 'E2', 'Persona Física y Dueña de Casa SIN Buen Historial Crediticio (con Obligado Solidario)', '1', '1', null, '2018-05-29 12:07:42', null), ('3', 'E3', 'Persona Física y NO es Dueña de Casa CON Buen Historial Crediticio', '1', '1', null, '2018-05-29 12:07:42', null), ('4', 'E4', 'Persona Física y NO es Dueña de Casa SIN Buen Historial Crediticio (con Obligado Solidario)', '1', '1', null, '2018-05-29 12:07:42', null), ('5', 'E5', 'Persona Moral', '1', '1', null, '2018-05-29 12:07:42', null);
+COMMIT;
